@@ -29,6 +29,9 @@ public class Swap_prog
 		}
 		
 		System.out.println("Addition result is ");
+		System.out.println("Addition result is ");
+		System.out.println("Addition result is ");
+		System.out.println("Addition result is ");
 	}
 
 }
