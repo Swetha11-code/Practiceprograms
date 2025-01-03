@@ -10,6 +10,12 @@ public class MockGitProg {
 System.out.println("My new repository");
                 System.out.println("My latest repository");
 
+                System.out.println("My new repository");
+                System.out.println("My latest repository");
+
+
+System.out.println("My new repository");
+                System.out.println("My latest repository");
 
 	}
 	
